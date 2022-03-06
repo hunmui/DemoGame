@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ef7aead1-5291-821a-c9d4-2dd13aae8aed": {
+      "ProjectGuid": "ef7aead1-5291-821a-c9d4-2dd13aae8aed",
+      "DisplayName": "Unity.2D.Tilemap.Extras",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
