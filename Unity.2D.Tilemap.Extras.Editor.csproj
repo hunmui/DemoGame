@@ -53,33 +53,33 @@
     <UnityVersion>2020.3.25f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Packages\2d-extras-master\Editor\Brushes\CoordinateBrush\CoordinateBrush.cs" />
-    <Compile Include="Packages\2d-extras-master\Editor\Tiles\RuleOverrideTile\PopulateRuleOverrideTileWizard.cs" />
-    <Compile Include="Packages\2d-extras-master\Editor\Brushes\PrefabBrushes\PrefabRandomBrush\PrefabRandomBrush.cs" />
-    <Compile Include="Packages\2d-extras-master\Editor\Brushes\PrefabBrushes\BasePrefabBrush.cs" />
-    <Compile Include="Packages\2d-extras-master\Editor\Brushes\RandomBrush\RandomBrush.cs" />
-    <Compile Include="Packages\2d-extras-master\Editor\Brushes\GameObjectBrush\GameObjectBrush.cs" />
-    <Compile Include="Packages\2d-extras-master\Editor\Brushes\GroupBrush\GroupBrush.cs" />
-    <Compile Include="Packages\2d-extras-master\Editor\Menu\CustomRuleTileMenu.cs" />
-    <Compile Include="Packages\2d-extras-master\Editor\Brushes\TintBrushSmooth\TintTextureGeneratorEditor.cs" />
-    <Compile Include="Packages\2d-extras-master\Editor\Brushes\TintBrushSmooth\TintBrushSmooth.cs" />
-    <Compile Include="Packages\2d-extras-master\Editor\Tiles\RuleTile\RuleTileEditor.cs" />
-    <Compile Include="Packages\2d-extras-master\Editor\Tiles\HexagonalRuleTile\HexagonalRuleTileEditor.cs" />
-    <Compile Include="Packages\2d-extras-master\Editor\Brushes\PrefabBrushes\PrefabBrush\PrefabBrush.cs" />
-    <Compile Include="Packages\2d-extras-master\Editor\Tiles\RuleOverrideTile\RuleOverrideTileEditor.cs" />
-    <Compile Include="Packages\2d-extras-master\Editor\Menu\MenuItemOrder.cs" />
-    <Compile Include="Packages\2d-extras-master\Editor\Brushes\PrefabBrushes\BrushMenuItem.cs" />
-    <Compile Include="Packages\2d-extras-master\Editor\Brushes\TintBrush\TintBrush.cs" />
-    <Compile Include="Packages\2d-extras-master\Editor\Tiles\RuleOverrideTile\AdvancedRuleOverrideTileEditor.cs" />
-    <Compile Include="Packages\2d-extras-master\Editor\Tiles\Menu\TerrainTileMenu.cs" />
-    <Compile Include="Packages\2d-extras-master\Editor\Brushes\LineBrush\LineBrush.cs" />
-    <Compile Include="Packages\2d-extras-master\Editor\Tiles\Menu\RandomTileMenu.cs" />
-    <Compile Include="Packages\2d-extras-master\Editor\Tiles\Menu\PipelineTileMenu.cs" />
-    <Compile Include="Packages\2d-extras-master\Editor\Tiles\IsometricRuleTile\IsometricRuleTileEditor.cs" />
-    <Compile Include="Packages\2d-extras-master\Editor\Tiles\Menu\WeightedRandomTileMenu.cs" />
+    <Compile Include="Packages\2d-extras-2020.3\Editor\Brushes\CoordinateBrush\CoordinateBrush.cs" />
+    <Compile Include="Packages\2d-extras-2020.3\Editor\Tiles\Menu\PipelineTileMenu.cs" />
+    <Compile Include="Packages\2d-extras-2020.3\Editor\Menu\CustomRuleTileMenu.cs" />
+    <Compile Include="Packages\2d-extras-2020.3\Editor\Tiles\RuleTile\RuleTileEditor.cs" />
+    <Compile Include="Packages\2d-extras-2020.3\Editor\Brushes\PrefabBrushes\PrefabRandomBrush\PrefabRandomBrush.cs" />
+    <Compile Include="Packages\2d-extras-2020.3\Editor\Brushes\GameObjectBrush\GameObjectBrush.cs" />
+    <Compile Include="Packages\2d-extras-2020.3\Editor\Brushes\PrefabBrushes\PrefabBrush\PrefabBrush.cs" />
+    <Compile Include="Packages\2d-extras-2020.3\Editor\Brushes\RandomBrush\RandomBrush.cs" />
+    <Compile Include="Packages\2d-extras-2020.3\Editor\Tiles\RuleOverrideTile\PopulateRuleOverrideTileWizard.cs" />
+    <Compile Include="Packages\2d-extras-2020.3\Editor\Tiles\RuleOverrideTile\RuleOverrideTileEditor.cs" />
+    <Compile Include="Packages\2d-extras-2020.3\Editor\Brushes\PrefabBrushes\BrushMenuItem.cs" />
+    <Compile Include="Packages\2d-extras-2020.3\Editor\Tiles\Menu\TerrainTileMenu.cs" />
+    <Compile Include="Packages\2d-extras-2020.3\Editor\Brushes\TintBrushSmooth\TintBrushSmooth.cs" />
+    <Compile Include="Packages\2d-extras-2020.3\Editor\Brushes\GroupBrush\GroupBrush.cs" />
+    <Compile Include="Packages\2d-extras-2020.3\Editor\Brushes\PrefabBrushes\BasePrefabBrush.cs" />
+    <Compile Include="Packages\2d-extras-2020.3\Editor\Menu\MenuItemOrder.cs" />
+    <Compile Include="Packages\2d-extras-2020.3\Editor\Brushes\TintBrush\TintBrush.cs" />
+    <Compile Include="Packages\2d-extras-2020.3\Editor\Tiles\HexagonalRuleTile\HexagonalRuleTileEditor.cs" />
+    <Compile Include="Packages\2d-extras-2020.3\Editor\Tiles\RuleOverrideTile\AdvancedRuleOverrideTileEditor.cs" />
+    <Compile Include="Packages\2d-extras-2020.3\Editor\Tiles\Menu\RandomTileMenu.cs" />
+    <Compile Include="Packages\2d-extras-2020.3\Editor\Brushes\LineBrush\LineBrush.cs" />
+    <Compile Include="Packages\2d-extras-2020.3\Editor\Brushes\TintBrushSmooth\TintTextureGeneratorEditor.cs" />
+    <Compile Include="Packages\2d-extras-2020.3\Editor\Tiles\IsometricRuleTile\IsometricRuleTileEditor.cs" />
+    <Compile Include="Packages\2d-extras-2020.3\Editor\Tiles\Menu\WeightedRandomTileMenu.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Packages\2d-extras-master\Editor\Unity.2D.Tilemap.Extras.Editor.asmdef" />
+    <None Include="Packages\2d-extras-2020.3\Editor\Unity.2D.Tilemap.Extras.Editor.asmdef" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -306,9 +306,6 @@
     </Reference>
     <Reference Include="UnityEditor.Graphs">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\Managed\UnityEditor.Graphs.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.WebGL.Extensions">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\PlaybackEngines\WebGLSupport\UnityEditor.WebGL.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.WindowsStandalone.Extensions">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
